@@ -1,0 +1,13 @@
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\obj\Debug\netcoreapp3.1\LinearArray.csprojAssemblyReference.cache
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\obj\Debug\netcoreapp3.1\LinearArray.AssemblyInfoInputs.cache
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\obj\Debug\netcoreapp3.1\LinearArray.AssemblyInfo.cs
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\obj\Debug\netcoreapp3.1\LinearArray.csproj.CoreCompileInputs.cache
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\bin\Debug\netcoreapp3.1\LinearArray.exe
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\bin\Debug\netcoreapp3.1\LinearArray.deps.json
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\bin\Debug\netcoreapp3.1\LinearArray.runtimeconfig.json
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\bin\Debug\netcoreapp3.1\LinearArray.runtimeconfig.dev.json
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\bin\Debug\netcoreapp3.1\LinearArray.dll
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\bin\Debug\netcoreapp3.1\LinearArray.pdb
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\obj\Debug\netcoreapp3.1\LinearArray.dll
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\obj\Debug\netcoreapp3.1\LinearArray.pdb
+C:\Users\JESULAYO\source\repos\LinearArray\LinearArray\obj\Debug\netcoreapp3.1\LinearArray.genruntimeconfig.cache
